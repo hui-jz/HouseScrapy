@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="sftp://root@172.17.12.213:22/root/anaconda3/envs/py35/bin/python" name="sftp://root@172.17.12.213:22/root/anaconda3/envs/py35/bin/python">
+        <fileTransfer host="172.17.12.213" port="22" rootFolder="/home/sftp/HouseScrapy" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
